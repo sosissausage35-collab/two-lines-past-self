@@ -1,0 +1,1 @@
+{"description":"Two lines to your past self: a warning about one specific moment, and why it mattered.","license":"MIT","name":"two-lines-past-self","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
